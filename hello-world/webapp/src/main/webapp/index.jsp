@@ -1,10 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-<<<<<<< HEAD
     <h1>New user Register for DevOps Learning</h1>
-=======
-    <h1>New user Register for MdeeY.com</h1>
->>>>>>> 5c9916e (modified page title)
     <p>Please fill in this form to create an account.</p>
     <hr>
      
