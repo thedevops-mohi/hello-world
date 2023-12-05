@@ -36,12 +36,7 @@
   </div>
 
    <h1> This site was deployed by Jenkins and Ansible to Kubernetes Cluster </h1>
-
+   <h1>Hello World from $(hostname -f)</h1>
   
 </form>
 
-
-what is the make of your first car ? 
-
-
-<h1> Hello From $(hostname -f) </h1>
