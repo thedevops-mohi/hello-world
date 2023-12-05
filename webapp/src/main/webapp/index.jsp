@@ -35,8 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> This site was deployed by Jenkins and Ansible to Kubernetes Cluster </h1>
-   <h1>Hello World from $(hostname -f)</h1>
+   <h1>Deployed by Jenkins and Ansible to Kubernetes Cluster </h1>
   
 </form>
 
